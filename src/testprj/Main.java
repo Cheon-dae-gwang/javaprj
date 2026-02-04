@@ -1,5 +1,7 @@
 package testprj;
 
 public class Main {
-	//asdf
+	private void sysout() {
+		System.out.println("개발자1이 개발한 내용입니다.");
+	}
 }
